@@ -1,0 +1,18 @@
+INSERT INTO [TABELA DE CLIENTES]
+VALUES
+(
+'00384393431',
+'João da Silva',
+'Rua Projetada A1',
+'Numero 233',
+'Copacabana',
+'Rio de Janeiro',
+'RJ',
+'20000000',
+'1965-03-21',
+57,
+'M',
+20000,
+30000.30,
+1
+);
