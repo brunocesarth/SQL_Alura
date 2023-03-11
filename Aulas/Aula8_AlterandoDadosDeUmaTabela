@@ -1,0 +1,11 @@
+Alterando o valor de um produto
+UPDATE [TABELA DE PRODUTOS] 
+SET [PRECO DE LISTA] = 3
+WHERE[CODIGO DO PRODUTO] = 544931
+
+
+
+Alterando mais de um campo do produto
+UPDATE [TABELA DE PRODUTOS]
+SET[PRECO DE LISTA] = 7.5, [EMBALAGEM] = 'Garrafa'
+WHERE[CODIGO DO PRODUTO] = '1088126';

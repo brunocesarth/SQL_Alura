@@ -1,0 +1,20 @@
+Se a declaração estiver obedecendo a ordem da tabela ficara desse jeito:
+
+INSERT INTO [TABELA DE PRODUTOS]
+	VALUES
+	(
+	'1088126',
+	'Linha Citros - 1 Litro - Limão',
+	'PET',
+	'1 Litro', 
+	'Limão',
+	7
+	),
+	(
+	'544931',
+	'Frescor do Verão - 350 ml - Limão',
+	'Lata',
+	'350 ml',
+	'Limão',
+	2.46
+	);
