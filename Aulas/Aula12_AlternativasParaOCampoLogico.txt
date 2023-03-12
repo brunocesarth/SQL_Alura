@@ -1,0 +1,36 @@
+INSERT INTO [TABELA DE CLIENTES]
+VALUES
+(
+'00384393555',
+'Maria Clara', 
+'Rua Projetada A1', 
+'Numero 233', 
+'Copacabana',
+'Rio de Janeiro', 
+'RJ',
+'20000000',
+'1975-03-21',
+47,
+'F',
+20000,
+30000.30,
+'TRUE'
+),
+(
+'00384393666',
+'Márcia Pereira',
+'Rua Projetada A1',
+'Numero 233',
+'Copacabana',
+'Rio de Janeiro',
+'RJ',
+'20000000',
+'1975-03-21',
+47,
+'F',
+20000,
+30000.30,
+'FALSE'
+);
+
+SELECT * FROM [TABELA DE CLIENTES]
